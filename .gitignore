@@ -12,6 +12,7 @@ Makefile.in
 /install-sh
 /missing
 /stamp-h1
+
 ## generic files to ignore
 *~
 *.lock
